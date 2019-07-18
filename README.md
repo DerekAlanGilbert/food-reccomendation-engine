@@ -6,7 +6,7 @@
 
 ```json
 {
-	"barcode": "994483711028" // example bar code
+	"barcode": "994483711028"
 }
 ```
 
