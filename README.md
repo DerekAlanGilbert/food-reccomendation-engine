@@ -1,7 +1,7 @@
 # Steps to start
 
 1. npm install
-2. npm run server
+2. npm run dev
 3. POST http://localhost:3000/api/v1/barcode
 
 ```json
