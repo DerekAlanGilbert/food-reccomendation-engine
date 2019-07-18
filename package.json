@@ -1,0 +1,22 @@
+{
+	"name": "recomm-engine",
+	"version": "1.0.0",
+	"description": "A engine built with tensorFlow to reccomend you food based on your diet.",
+	"main": "index.js",
+	"scripts": {
+		"run": "node index.js",
+		"server": "nodemon server.js"
+	},
+	"author": "Team Good Bois",
+	"license": "MIT",
+	"dependencies": {
+		"boxen": "^4.1.0",
+		"brain.js": "^1.6.1",
+		"cors": "^2.8.5",
+		"express": "^4.17.1",
+		"got": "^9.6.0"
+	},
+	"devDependencies": {
+		"nodemon": "^1.19.1"
+	}
+}
