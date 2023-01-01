@@ -13,7 +13,7 @@
 	"dependencies": {
 		"boxen": "^4.1.0",
 		"brain.js": "^1.6.1",
-		"config": "^3.2.0",
+		"config": "^3.3.8",
 		"cors": "^2.8.5",
 		"express": "^4.17.1",
 		"got": "^9.6.0",
